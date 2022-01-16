@@ -1,4 +1,4 @@
-from pyrogram import Client, Filters
+from pyrogram import Client
 from pyrogram.raw import functions, types
 import datetime
 import time
